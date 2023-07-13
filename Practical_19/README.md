@@ -10,6 +10,7 @@ Update-Database
 ```
 In Repository Folder Authentication Repository Just Change User To Admin or vice versa In RegisterAsync Method then only Register
 ```
-![image](https://github.com/jil1710/Core_Practical_19/assets/125335932/10b42767-6b34-4a8b-9fbd-4797b6f80a2f)
+![image](https://github.com/AbhayChothaniSimform/Practical-19/assets/125371527/4f6d6948-d984-491b-8d5c-b85780368cc7)
+
 
 ## Note : Before Registration First Default Admin is Register To change Follow Step 4 Then register again
